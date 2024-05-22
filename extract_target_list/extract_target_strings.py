@@ -28,9 +28,9 @@ def print_keys_with_file_check(keys):
         # Check for the existence of files with different extensions
         file_exists = any(os.path.exists(os.path.join(parent_folder, f"{key}{ext}")) for ext in ['.jpg', '.png', '.jpeg'])
         if file_exists:
-            print(f' [x] `{key}`')
+            print(f' - [x] `{key}`')
         else:
-            print(f' [ ] `{key}`')
+            print(f' - [ ] `{key}`')
 
 # Print the keys with the file check
 print_keys_with_file_check(three_level_keys_no_overlay)
