@@ -5,7 +5,7 @@ This is a public repository for the visual reference of ExpressLRS targets.
 Follow the hierarchy in [https://github.com/ExpressLRS/targets/blob/master/targets.json], like `betafpv.tx_900.nano900.*` (delimiter: dot)
 
 # Image treatment & size
-The image should be show the top (and optionally bottom) side of the device and has white-backgroud. Resize the image to have 300px height.
+The image should show the top (and optionally bottom) side of the device and has white-backgroud. Resize the image to have 300px height.
 
 # Progress
   - [x] `anyleaf.rx_2400.single-radio`
@@ -36,24 +36,6 @@ The image should be show the top (and optionally bottom) side of the device and 
   - [x] `betafpv.rx_2400.pwmp`
   - [x] `betafpv.rx_2400.superd`
   - [x] `betafpv.rx_2400.superp`
-  - [ ] `diy.tx_900.ttgov1`
-  - [ ] `diy.tx_900.ttgov2`
-  - [ ] `diy.tx_900.e19`
-  - [ ] `diy.tx_900.rfm95`
-  - [ ] `diy.tx_900.stm32-sx1272`
-  - [ ] `diy.tx_900.dupletxesp`
-  - [ ] `diy.rx_900.ttgov1`
-  - [ ] `diy.rx_900.ttgov2`
-  - [ ] `diy.rx_900.huzzah`
-  - [ ] `diy.rx_900.stm32-sx1272`
-  - [ ] `diy.tx_2400.mini`
-  - [ ] `diy.tx_2400.e28`
-  - [ ] `diy.tx_2400.f27`
-  - [ ] `diy.tx_2400.ble`
-  - [ ] `diy.tx_2400.true_diversity_pwm16_s3`
-  - [ ] `diy.tx_2400.dupletxesp`
-  - [ ] `diy.rx_2400.true_diversity_pwm16_s3`
-  - [ ] `diy.rx_2400.true_diversity_vtx_pwm11_s3`
   - [ ] `emax.tx_900.plain`
   - [ ] `emax.tx_900.nano`
   - [ ] `emax.rx_900.plain`
@@ -74,35 +56,6 @@ The image should be show the top (and optionally bottom) side of the device and 
   - [ ] `frsky.rx_900.r9slim-plus`
   - [ ] `frsky.rx_900.r9slim-plus-ota`
   - [ ] `frsky.rx_900.r9mx`
-  - [ ] `generic.tx_900.gemini`
-  - [ ] `generic.rx_900.plain`
-  - [ ] `generic.rx_900.pwmp`
-  - [ ] `generic.rx_900.true_diversity`
-  - [ ] `generic.rx_900.true_diversity_pwm16`
-  - [ ] `generic.tx_2400.dupletx`
-  - [ ] `generic.tx_2400.gemini`
-  - [ ] `generic.rx_2400.c3-plain`
-  - [ ] `generic.rx_2400.c3-pwm`
-  - [ ] `generic.rx_2400.pp`
-  - [ ] `generic.rx_2400.plain`
-  - [ ] `generic.rx_2400.pwm5`
-  - [ ] `generic.rx_2400.pwm6`
-  - [ ] `generic.rx_2400.pwm-vario`
-  - [ ] `generic.rx_2400.pwm7`
-  - [ ] `generic.rx_2400.pa`
-  - [ ] `generic.rx_2400.pa-rgb`
-  - [ ] `generic.rx_2400.diversity`
-  - [ ] `generic.rx_2400.frank`
-  - [ ] `generic.rx_2400.rx_vtx`
-  - [ ] `generic.rx_2400.true_diversity`
-  - [ ] `generic.rx_2400.diversity_pa_vtx`
-  - [ ] `generic.rx_2400.diversity_vtx`
-  - [ ] `generic.rx_2400.true_diversity_pwm16`
-  - [ ] `generic.rx_2400.true_diversity_pwm14`
-  - [ ] `generic.tx_dual.gemini`
-  - [ ] `generic.rx_dual.true_diversity`
-  - [ ] `generic.rx_dual.c3-true_diversity`
-  - [ ] `generic.rx_dual.c3-plain`
   - [ ] `geprc.rx_900.nano`
   - [ ] `geprc.rx_900.dual`
   - [ ] `geprc.rx_2400.nano`
